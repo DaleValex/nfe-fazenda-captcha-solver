@@ -14,6 +14,6 @@ Solve nfe.fazenda annoying captcha with python
 
 
 # Required
-- capsolver.com api key
+- [capsolver.com](https://www.capsolver.com/) api key
   
-- brightdata datacenter proxy
+- [brightdata](https://brightdata.com/)https://brightdata.com/ datacenter proxy
